@@ -4,7 +4,7 @@
 A perfume warehouse management website
 
 
-## Features (Under development - skipped some of the features for time shortage)
+## Features (Under development - skipped some of the features for time shortage, will work on later)
 
 - API's for client side 
 
